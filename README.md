@@ -1,6 +1,6 @@
 # vs2019codeswagger
 
- Developing API with VS2019 and test it with Swagger
+ Developing API with VS2019 and test it with Swagger, https://localhost:44337/swagger/index.html to test
  
  After API project is created, Nuget manager needs to add Swashbuckle.aspnetcore .dll. then we can update the configuration in API application. 
  
